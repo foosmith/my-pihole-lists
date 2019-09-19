@@ -4,3 +4,5 @@ austin.logs.roku.com
 no-thanks.invalid
 fonts.googleapis.com
 use.fontawesome.com
+wpad.localdomain
+nrdp.nccp.netflix.com
