@@ -78,3 +78,4 @@ daytondailynews.com
 epaper.daytondailynews.com
 widget-cdn.rpxnow.com
 preview.msn.com
+sso.cmgdigital.com
