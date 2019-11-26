@@ -79,3 +79,5 @@ epaper.daytondailynews.com
 widget-cdn.rpxnow.com
 preview.msn.com
 sso.cmgdigital.com
+www.coinbase.com
+coinbase.com
