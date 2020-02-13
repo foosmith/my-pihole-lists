@@ -81,3 +81,5 @@ preview.msn.com
 sso.cmgdigital.com
 www.coinbase.com
 coinbase.com
+docs.google.com
+goo.gl
