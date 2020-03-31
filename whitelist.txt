@@ -83,3 +83,4 @@ www.coinbase.com
 coinbase.com
 docs.google.com
 goo.gl
+fast.wistia.com
