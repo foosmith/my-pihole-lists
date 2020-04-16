@@ -8,3 +8,5 @@ nrdp.nccp.netflix.com
 activity.windows.com
 siliconangle.com
 np7mxx2574yu7drjiuhvlgvktybqeaqbaeaq.a.e.e5.sk
+zoom.com.cn
+time.samsungcloudsolution.com
